@@ -1,0 +1,5 @@
+- # sobre mim
+- 👋 olá,eu sou @bf15243
+- meu email é barbara.victoria.ferreira@escola.pr.gov.br
+- estou interessada em novas linguagens de programação.
+- 📫 estou aprendendo a programar a linguagen de javaschipti.
